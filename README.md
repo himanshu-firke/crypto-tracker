@@ -14,7 +14,7 @@ A powerful and responsive **React-based Cryptocurrency Tracker** that displays r
 
 | Home Page | TradingView Integration |
 |----------|--------------------------|
-| ![Screenshot](./screenshots/home.png) | ![Chart](./screenshots/chart.png) |
+| ![Screenshot](./screenshots/home.jpg) | ![Chart](./screenshots/chart.jpg) |
 
 ---
 
